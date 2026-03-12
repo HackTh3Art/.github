@@ -104,11 +104,5 @@ Prin secțiuni practice și provocări bine gândite, concursul pune accent pe:
 
 ---
 
-## Motto
-
-**Concurează în securitate cibernetică, programare și rețelistică.**
-
----
-
 © 2026 HackTheART. Toate drepturile rezervate.  
 Un proiect susținut de comunitatea locală de IT.
