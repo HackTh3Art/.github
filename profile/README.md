@@ -99,7 +99,7 @@ Prin secțiuni practice și provocări bine gândite, concursul pune accent pe:
 ## Linkuri utile
 
 - 🌍 Site oficial: [hacktheart.ro](https://hacktheart.ro)
-- 🔐 Platforma CTF: [ctf2.hacktheart.ro](https://ctf.hacktheart.ro)
+- 🔐 Platforma CTF: [ctf.hacktheart.ro](https://ctf.hacktheart.ro)
 - 💻 Platforma de programare: [kilonova.ro](https://kilonova.ro)
 
 ---
