@@ -10,7 +10,7 @@ Ne concentrăm pe promovarea cunoștințelor practice și pe dezvoltarea unei co
 
 ## Despre concurs
 
-📅 **Data:** 31 martie 2026  
+📅 **Data:** TO BE ANNOUNCED  
 🌍 **Format:** on site    
 
 HackTheART 2026 își propune să aducă împreună elevi și pasionați de tehnologie într-o competiție practică, modernă și accesibilă, unde participanții își pot testa abilitățile în scenarii apropiate de lumea reală.
@@ -60,7 +60,7 @@ Testează-ți cunoștințele de networking, de la nivelul fizic la cel de aplica
 
 | Secțiune | Interval |
 |----------|----------|
-| CTF | 10:00 – 16:00 ||
+| CTF | TBA ||
 
 ---
 
