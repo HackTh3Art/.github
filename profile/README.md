@@ -99,6 +99,9 @@ Prin secțiuni practice și provocări bine gândite, concursul pune accent pe:
 - **Panaitescu Sebastian**
 - **Vasile David**
 
+### PR
+- **Maciuca Ioana-Alexandra**
+
 ---
 
 ## Linkuri utile
