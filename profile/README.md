@@ -100,7 +100,7 @@ Prin secțiuni practice și provocări bine gândite, concursul pune accent pe:
 - **Vasile David**
 
 ### PR
-- **Maciuca Ioana-Alexandra**
+- **Măciucă Ioana-Alexandra**
 
 ---
 
