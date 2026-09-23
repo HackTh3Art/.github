@@ -85,14 +85,19 @@ Prin secțiuni practice și provocări bine gândite, concursul pune accent pe:
 - **Maria-Lăcrămioara Grigore**
 
 ### CTF
+- **Andrei-Laurențiu Neculai-Mirea**
 - **Iustin-Mihail Bichir**
 - **Alexandru Mititelu**
-- **Andrei-Laurențiu Neculai-Mirea**
 
 ### Algoritmică
 - **Ilie Dumitru**
 - **Ștefan-Octavian Dunel**
 - **Rareș-Ioan Papacioc**
+- **Iancu Diana**
+
+### Misc
+- **Panaitescu Sebastian**
+- **Vasile David**
 
 ---
 
@@ -101,6 +106,7 @@ Prin secțiuni practice și provocări bine gândite, concursul pune accent pe:
 - 🌍 Site oficial: [hacktheart.ro](https://hacktheart.ro)
 - 🔐 Platforma CTF: [ctf.hacktheart.ro](https://ctf.hacktheart.ro)
 - 💻 Platforma de programare: [kilonova.ro](https://kilonova.ro)
+- Discord: [discord.hacktheart.ro](https://discord.hacktheart.ro)
 
 ---
 
